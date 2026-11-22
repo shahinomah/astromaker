@@ -9,6 +9,8 @@ Mizwalah horizontal ialah instrumen jam matahari mendatar yang menggunakan unjur
 3. Pelarasan Perata Waktu (Equation of Time — EoT): Disebabkan orbit Bumi berbentuk elips dan kecondongan paksi 23.44°, kelajuan matahari ketara berbeza sepanjang tahun antara −14 minit hingga +16 minit. Bacaan bayang mesti dilaraskan dengan nilai EoT harian untuk mendapatkan Waktu Piawai Malaysia (GMT+8).
 4. Membaca Musim Melalui Hujung Titik Nodus (h = 22.0 mm): Lengkung melintang Solstis Dis, Ekuinoks, dan Solstis Jun dibaca menggunakan hujung puncak titik nodus. Sekitar 21 Disember, hujung bayang menyusuri lengkung atas (arah Utara); pada 21 Mac dan 23 September (Ekuinoks), bayang bergerak di sepanjang garisan lurus tengah; manakala sekitar 21 Jun, bayang menyusuri lengkung bawah (arah Selatan).
 
+<img width="666" height="869" alt="Muka-Jam" src="https://github.com/user-attachments/assets/162b1b24-7812-4542-9a71-04f337278b91" />
+
 [Muka_Jam_Mizwalah_Astromaker_A4_1to1-v3.pdf](https://github.com/user-attachments/files/35235516/Muka_Jam_Mizwalah_Astromaker_A4_1to1-v3.pdf)
 
 Dalam ilmu falak syarie, penentuan masuknya setiap waktu solat fardu bergantung kepada kedudukan sudut ketinggian (altitud, a) atau sudut zenith (z = 90° − a) pusat cakera matahari berbanding ufuk tempatan:
