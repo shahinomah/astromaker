@@ -35,3 +35,6 @@ Terdapat juga tab tambahan yang menyediakan Jadual Perata yang boleh dimuat turu
 Ia berguna bagi menentukan waktu sebenar dari waktu yang diperoleh dari Mizwalah ini.
 
 Semoga bermanfaat.
+
+
+<img width="650" height="650" alt="ASTROMAKER BY DR SHAHINO MAH" src="https://github.com/user-attachments/assets/981616b2-39de-4b6f-bc9a-218196896e76" />
