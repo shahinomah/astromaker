@@ -1,6 +1,6 @@
 # astromaker
 
-Mizwalah Horizontal & Waktu Solat
+Mizwalah Horizontal & Waktu Solat (Sundial / Jam Matahari)
 
 Mizwalah horizontal ialah instrumen jam matahari mendatar yang menggunakan unjuran bayang gnomon (jarum/bilah penunjuk) di atas permukaan rata untuk menentukan waktu jam sivil, perubahan musim suria, waktu solat siang hari (Zohor dan Asar), serta arah Kiblat bagi sesuatu koordinat geografi tertentu.
 
@@ -19,3 +19,19 @@ Dalam ilmu falak syarie, penentuan masuknya setiap waktu solat fardu bergantung 
 <img width="669" height="535" alt="Penentuan_Waktu_Solat" src="https://github.com/user-attachments/assets/263685fb-993d-41b2-8c3f-8a2e1fe4a39a" />
 
 Disediakan oleh: Dr Shahino Mah bin Abdullah
+
+Muat turun kedua-dua bahagian fail zip (Mizwalah-Dunia), dan unzip, bagi mendapatakn aplikasi Mizwalah Horizontal Malaysia:
+
+<img width="581" height="141" alt="Mizwalah-Dunia" src="https://github.com/user-attachments/assets/20d3dc45-7e22-47a8-838b-42a13b2d0714" />
+
+Di bawah adalah antaramuka bagi aplikasi berkenaan. Anda boleh mendapatkan satah lakaran garis waktu bagi tempat yang anda pilih. Ia boleh dimuat turun dan diceak dengan menggunakan kertas bersaiz A4:
+
+<img width="1290" height="1025" alt="Satah-Pemetaan" src="https://github.com/user-attachments/assets/b8035c92-733d-4e3f-ab73-bec2f2a03843" />
+
+Terdapat juga tab tambahan yang menyediakan Jadual Perata yang boleh dimuat turun:
+
+<img width="1292" height="1025" alt="Jadual-Perata" src="https://github.com/user-attachments/assets/d6631e3f-bfeb-432d-901a-1e70d62848ff" />
+
+Ia berguna bagi menentukan waktu sebenar dari waktu yang diperoleh dari Mizwalah ini.
+
+Semoga bermanfaat.
