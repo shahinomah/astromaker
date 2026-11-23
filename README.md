@@ -20,7 +20,7 @@ Dalam ilmu falak syarie, penentuan masuknya setiap waktu solat fardu bergantung 
 
 Disediakan oleh: Dr Shahino Mah bin Abdullah
 
-Muat turun kedua-dua bahagian fail zip (Mizwalah-Dunia), dan unzip, bagi mendapatakn aplikasi Mizwalah Horizontal Malaysia:
+Muat turun kedua-dua bahagian fail zip (Mizwalah-Dunia), dan unzip, bagi mendapatkan aplikasi Mizwalah Horizontal Malaysia Astromaker (sesuai untuk komputer Windows):
 
 <img width="581" height="141" alt="Mizwalah-Dunia" src="https://github.com/user-attachments/assets/20d3dc45-7e22-47a8-838b-42a13b2d0714" />
 
