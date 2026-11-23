@@ -13,6 +13,10 @@ Mizwalah horizontal ialah instrumen jam matahari mendatar yang menggunakan unjur
 
 [Muka_Jam_Mizwalah_Astromaker_A4_1to1-v3.pdf](https://github.com/user-attachments/files/35235516/Muka_Jam_Mizwalah_Astromaker_A4_1to1-v3.pdf)
 
+Gnomon (jarum/pointer) diletakkan di atas Mizwalah Horizontal mengikut kedudukan garis putus bagi tapak gnomon berkenaan.
+
+<img width="3394" height="2606" alt="Gnomon" src="https://github.com/user-attachments/assets/a94a72db-4697-410b-9f3c-42fee48cda67" />
+
 Dalam ilmu falak syarie, penentuan masuknya setiap waktu solat fardu bergantung kepada kedudukan sudut ketinggian (altitud, a) atau sudut zenith (z = 90° − a) pusat cakera matahari berbanding ufuk tempatan:
 
 
