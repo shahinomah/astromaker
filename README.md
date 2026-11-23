@@ -38,6 +38,21 @@ Terdapat juga tab tambahan yang menyediakan Jadual Perata yang boleh dimuat turu
 
 Ia berguna bagi menentukan waktu sebenar dari waktu yang diperoleh dari Mizwalah ini.
 
+Dalam ilmu falak dan astronomi posisi, Perata Waktu (Equation of Time, EoT) mengukur selisih antara Waktu Matahari Ketara (bacaan bayang matahari sebenar) dengan Waktu Matahari Min (waktu jam seragam). Perbezaan tanda positif (+) dan negatif (−) antara jadual dalam dokumen
+ASTROMAKER dengan jadual di laman sesawang Mizwalah Malaysia berpunca daripada dua konvensyen definisi arah tolakan yang berbeza, walaupun magnitud minitnya adalah hampir sama.
+
+1. Konvensyen A — Waktu Matahari Ketara tolak Waktu Matahari Min (EoT = AST − MST):
+   
+Digunakan dalam jadual rujukan ASTROMAKER melalui formula harmonik Spencer (1971). Nilai negatif (seperti pada Januari dan Februari) bermaksud matahari ketara berada di belakang matahari min, manakala nilai positif (seperti pada Oktober dan November) bermaksud matahari ketara mendahului matahari min.
+
+2. Konvensyen B — Waktu Matahari Min tolak Waktu Matahari Ketara (EoT = MST − AST):
+   
+Digunakan oleh sebahagian sumber falak dan jadual laman Mizwalah Malaysia, yang menyongsangkan tanda (+) dan (−) bagi menunjukkan nilai ] pembetulan yang perlu ditambah kepada bacaan jam matahari untuk menyamai waktu jam min.
+
+Formula Operasi Rasmi Kit ASTROMAKER: Waktu Sivil Malaysia = Bacaan Bayang Bilah + EoT
+
+Oleh sebab jadual ASTROMAKER menggunakan definisi AST − MST, pengguna hanya perlu mengikut terus tanda pada jadual: nilai (+) ditambah kepada bacaan bayang muka jam, manakala nilai (−) ditolak daripada bacaan bayang muka jam.
+
 Semoga bermanfaat.
 
 
